@@ -2,7 +2,6 @@
 
 Autodesk Fusion 桌面版 Python 附加模块，无第三方依赖。生成的是可加孔、键槽和倒角的 Fusion 实体，不是 STL 网格。
 
-作者：**Peter Shelby**。署名显示在生成、改参及导出窗口顶部，不会写进齿轮几何或 STEP。
 
 ## 安装与打开
 
