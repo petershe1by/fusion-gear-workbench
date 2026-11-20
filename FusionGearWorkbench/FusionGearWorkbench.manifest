@@ -1,0 +1,14 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "1b1bf24e-8a52-4335-8739-b07dc1a73fac",
+  "author": "Peter Shelby",
+  "description": {
+    "": "Editable gear solids and STEP export",
+    "2052": "齿轮工坊：实体建模、改参和 STEP 导出"
+  },
+  "version": "0.1.4",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

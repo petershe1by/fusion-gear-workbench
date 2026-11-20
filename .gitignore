@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+FusionGearWorkbench-v*.zip
+tests/fusion-smoke-result.txt
